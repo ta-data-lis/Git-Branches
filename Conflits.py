@@ -11,7 +11,8 @@ print ("The area of the circle with radius " + str(r) + " is: " + A)
 
 
 # Volume of the Sphere
-Print(A)
+V = 3 * pi * r**2
+
 
 
 print("The volume of the sphere is: ")
