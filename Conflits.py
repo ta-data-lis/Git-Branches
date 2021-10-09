@@ -1,17 +1,13 @@
 from math import pi, pow
 
-r = float(input ("Input the radius of the circle : "))
+12345678
+t = 0
+s = 0
 
-
-#  Area of the circle 
-A = str(pi * r**2)
-
-
-print ("The area of the circle with radius " + str(r) + " is: " + A)
-
-
-# Volume of the Sphere
-V = 4/3 * pi * r**3
+def play(run):
+	dayly = run
+	x = dayly * 100
+	print(f'This month I run {x} km')
 
 
 print("The volume of the sphere is: ")
