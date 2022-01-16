@@ -5,14 +5,14 @@ r = float(input ("Input the radius of the circle : "))
 
 
 #  Area of the circle 
-A = pi * r**2
+#A = 
 
 
 #print ("The area of the circle with radius " + str(r) + " is: " + A)
 
 
 # Volume of the Sphere
-V = pi * 3/4 * r**3
+#V = 
 
 
 #print("The volume of the sphere is: ", V)
