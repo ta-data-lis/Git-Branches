@@ -12,7 +12,7 @@ A = pi * pow(r,2)
 
 
 # Volume of the Sphere
-V =pi * 3/4 * r**3
+V =pi * 3/4 * r**
 
 
 #print("The volume of the sphere is: ", V)
