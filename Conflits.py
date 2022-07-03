@@ -5,7 +5,7 @@ r = float(input ("Input the radius of the circle : "))
 
 
 #  Area of the circle 
-A = 2 * pi * pow(r,2)
+A = 2 * pi * r**2
 
 
 print ("The area of the circle with radius " + str(r) + " is: " + str(A))
