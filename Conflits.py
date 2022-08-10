@@ -2,7 +2,7 @@ from math import pi, pow
 
 
 r = float(input ("Input the radius of the circle : "))
-
+print('hello')
 
 #  Area of the circle 
 # A = 
@@ -16,4 +16,3 @@ r = float(input ("Input the radius of the circle : "))
 
 
 # print("The volume of the sphere is: ", V)
-
